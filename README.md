@@ -61,3 +61,20 @@ Semana OmniStack 11.0 da Rocketseat 🚀
   > $ npm start
   
 - <i>Abra o app Expo no celular e identifique o QR code mostrado na web</i>
+
+![0 1](https://user-images.githubusercontent.com/12499627/78061594-ce667880-7363-11ea-92ed-9cd401817eef.PNG)
+
+
+![0 2](https://user-images.githubusercontent.com/12499627/78061598-d2929600-7363-11ea-8dd6-6f3ee45b0a9a.PNG)
+
+
+![0 3](https://user-images.githubusercontent.com/12499627/78061608-d6beb380-7363-11ea-9a14-a9d35f564e7e.PNG)
+
+<hr/>
+
+<p align="row">
+  <img align="left" height="600" wigth="600" src="https://user-images.githubusercontent.com/12499627/78072145-fad6c080-7374-11ea-9390-f1fc96d577ef.jpg">
+
+  <img align="right" height="600" wigth="600" src="https://user-images.githubusercontent.com/12499627/78072997-6ff6c580-7376-11ea-85a1-39c435c53f64.jpg">
+</p>
+
