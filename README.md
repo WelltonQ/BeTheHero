@@ -34,6 +34,8 @@ Semana OmniStack 11.0 da Rocketseat 🚀
 - [ReactJS](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
 - [Express](https://expressjs.com/)
+- [Axios](https://github.com/axios/axios)
+- [React Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)
 - [Expo](https://expo.io/)
 - [Nodemon](https://nodemon.io/)
 - [Knex.js](http://knexjs.org/)
