@@ -8,7 +8,7 @@ Semana OmniStack 11.0 da Rocketseat 🚀
 <hr/>
 
 ### Sobre:
-- Consiste em uma aplicação para conectar pessoas dispostas a ajudar ONGs.
+- O intuito dessa aplicação é unir pessoas que sentem vontade e tem disponibilidade em ajudar (seja com mão de obra ou financeiramente) com ONGs, instituições sem fins lucrativos que precisam de ajuda com casos específicos.
 
 <hr/>
 
